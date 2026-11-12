@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**Manish889s/Manish889s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Manish 👋
+QA Tester | 1+ Year Experience in LMS
+🔹 Manual + Automation Testing - Selenium with Java
+🔹 API Testing - Postman
+🔹 SQL, Jira, Git
+🔹 Performance Testing - New Relic
+🔹 Currently working on - StudentNest Lotus (LMS)
+📂 My Work:
+- LMS Automation Framework
+- API Testing Collection
+- Performance Test Report
