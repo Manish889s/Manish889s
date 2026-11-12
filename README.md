@@ -1,4 +1,4 @@
-Hi, I'm Manish 👋
+Hi, I'm Munish Sharma 👋
 QA Tester | 1+ Year Experience in LMS
 🔹 Manual + Automation Testing - Selenium with Java
 🔹 API Testing - Postman
